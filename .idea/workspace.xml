@@ -7062,7 +7062,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../netease/zanshell1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -7186,7 +7186,7 @@
       <workItem from="1579501687406" duration="699000" />
       <workItem from="1580182281100" duration="6730000" />
       <workItem from="1580191818266" duration="8574000" />
-      <workItem from="1580740772028" duration="262000" />
+      <workItem from="1580740772028" duration="277000" />
     </task>
     <task id="LOCAL-00001" summary="输出userInfo">
       <created>1580192531206</created>
@@ -7195,7 +7195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580192531207</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="配置spring-mvc">
+      <created>1580741068277</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580741068277</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
