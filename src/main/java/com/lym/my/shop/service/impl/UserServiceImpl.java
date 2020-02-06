@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
  * @author liuyumeng3
  * @date 2019/11/26 19:28
  */
-@Service(value = "userService")
+@Service
 public class UserServiceImpl implements UserService {
 //逻辑错误
     //所想非所得
